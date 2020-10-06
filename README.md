@@ -4,6 +4,8 @@
 ### What is Linear Regression?
 It’s a method to predict a target variable by fitting the best linear relationship between the dependent and independent variable.
 
+
+
 ![Linear-Regression1](Linear-Regression1.jpg)
 
 
@@ -12,6 +14,13 @@ It’s a method to predict a target variable by fitting the best linear relation
 It can be of any shape depending on the number of independent variables (a point on the axis, a line in two dimensions, a plane in three dimensions, or a hyperplane in higher dimensions).
 **Least Square Method:**The best fit is done by making sure that the sum of all the distances between the shape and the actual observations at each point is as small as possible. The fit of the shape is “best” in the sense that no other position would produce less error given the choice of shape.
 
+If you want to go into the mathematics, you can have a look below or if you hate mathematics, just skip!
+
+
+
+![Linear-Regression2](Linear-Regression2.jpg)
+
+---
 
 ### Application in Real Life
 
