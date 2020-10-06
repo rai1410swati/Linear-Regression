@@ -1,5 +1,5 @@
 # LINEAR REGRESSION
-
+---
 
 ### What is Linear Regression?
 It’s a method to predict a target variable by fitting the best linear relationship between the dependent and independent variable.
