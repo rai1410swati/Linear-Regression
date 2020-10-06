@@ -4,8 +4,7 @@
 ### What is Linear Regression?
 It’s a method to predict a target variable by fitting the best linear relationship between the dependent and independent variable.
 
-Y = X1 + X2 + X3
-Where, Y is *dependent variable* and X1, X2, X3 are *independent variable*
+![Linear-Regression1](Linear-Regression1.jpg)
 
 
 ### What is the Best Fit?
